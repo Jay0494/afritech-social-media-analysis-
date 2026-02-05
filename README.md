@@ -86,6 +86,7 @@ Key steps:
 * **No strong correlation** between social engagement and sales
 
 #### 2023 Engagement Performance
+<img width="1327" height="140" alt="image" src="https://github.com/user-attachments/assets/d59269bb-e720-4af1-9497-3979741cf84a" />
 
 * **Total engagements:** 10 million
 * **Engagement rate:** 8%
@@ -107,6 +108,7 @@ Key steps:
 ---
 
 ### 2️⃣ Customer Sentiment Analysis
+<img width="1908" height="761" alt="image" src="https://github.com/user-attachments/assets/800bae4a-e74f-4a7c-95f4-bcd3bd9af4cd" />
 
 * **Neutral sentiment:** 40.9%
 * **Positive sentiment:** 40.35%
@@ -119,6 +121,7 @@ This indicates:
 * Negative sentiment remains significant and actionable
 
 #### Engagement by Income Segment
+<img width="1906" height="818" alt="image" src="https://github.com/user-attachments/assets/e3d5b3a7-bf4e-4154-958d-2f63ed928a0b" />
 
 * Income **37,894 – 81,281:** 30% of total engagements
 * Income **16,200 – 37,893:** 11.4% of engagements
